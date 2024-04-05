@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shreyaranjan500@gmail.com**
 
-- ⚡ Fun fact **🎤 Fun fact: I love singing ! 🎶🎤**
+- ⚡ Fun fact :  **🎤 I love singing ! 🎶🎤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
