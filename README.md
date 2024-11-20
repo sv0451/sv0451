@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **The Algorithmic City - AI-Powered Optimization for Personalized Public Transit**
 
-- 🌱 I’m currently learning **Cloud Computing and AI**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
 - 📫 How to reach me **shreyaranjan500@gmail.com**
 
